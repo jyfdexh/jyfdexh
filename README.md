@@ -1,9 +1,4 @@
-<!-- ===== Frieren 官方无水印媒体 / 无文字大标题版 ===== -->
 
-<!-- 顶部装饰波浪（无文字） -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6E7AFF,100:D06FFF&section=header&text=%20" alt="decorative wave" />
-</p>
 
 <!-- 官方图片（仅保留第一张） -->
 <p align="center">
@@ -42,10 +37,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyfdexh&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
 
-<!-- 尾部装饰波浪（无文字） -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D06FFF,100:6E7AFF&section=footer&text=%20" />
-</p>
 
 <!-- 备注：
 - 如遇个别缩略图 404，将 maxresdefault.jpg 改为 hqdefault.jpg。
