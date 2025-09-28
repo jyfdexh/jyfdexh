@@ -1,13 +1,5 @@
 
 
-<!-- 官方图片（仅保留第一张） -->
-<p align="center">
-  <img src="https://frieren-anime.jp/wp-content/uploads/2025/09/g-726x1024.jpg" alt="Frieren Key Visual (official)" width="680">
-</p>
-
----
-
-### 🎬 官方预告（可点开观看）
 <p align="center">
   <!-- 1. Crunchyroll 官方预告 -->
   <a href="https://www.youtube.com/watch?v=Iwr1aLEDpe4" target="_blank">
@@ -31,7 +23,6 @@
 
 ---
 
-### 📊 GitHub 统计
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jyfdexh&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyfdexh&layout=compact&langs_count=10&theme=tokyonight" />
