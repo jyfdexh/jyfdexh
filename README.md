@@ -1,28 +1,45 @@
-<!-- ===================== Frieren 风格：无文字标题版本 ===================== -->
+<!-- ================= Frieren 无文字装饰 + 可直链媒体（GitHub README 可直接显示） ================ -->
 
-<!-- 顶部装饰波浪（无文字，仅背景） -->
+<!-- 顶部装饰波浪（无文字） -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6E7AFF,100:D06FFF&section=header&text=%20" alt="decorative wave" />
 </p>
 
-<!-- 二次元氛围动图：宇宙星域/粒子科普风，暗色系，均可直链 -->
+<!-- Frieren GIF 展示（全部为 GIPHY 直链，可稳定外链） -->
 <p align="center">
-  <!-- 星海穿梭（CC0） -->
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/StarfieldSimulation004.gif" width="880" alt="starfield warp">
-  <!-- 双缝干涉粒子轨迹（CC0） -->
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Wave-particle_duality.gif" width="880" alt="wave particle duality">
-  <!-- 行星状星云 & 白矮星形成（NASA 公有领域） -->
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Planetary%20nebula%20%26%20white%20dwarf%20formation.gif" width="880" alt="nebula formation">
-  <!-- 蟹状星云 5 台望远镜合成（NASA 公有领域，色彩绚丽） -->
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/PIA21474-CrabNebula-5Observatories-Animation.gif" width="880" alt="crab nebula 5 observatories">
+  <!-- Frieren（优雅回眸） -->
+  <img src="https://i.giphy.com/media/992J91cmCd4WYEzgu8/giphy.gif" width="880" alt="Frieren look back">
+  <!-- Fern（队友特写） -->
+  <img src="https://i.giphy.com/media/GoUByIf9kADEVcCN3z/giphy.gif" width="880" alt="Fern close-up">
+  <!-- Aura（对峙气场） -->
+  <img src="https://i.giphy.com/media/yM9j5Td1FLQyT93EQC/giphy.gif" width="880" alt="Aura stance">
+  <!-- 俏皮表情 -->
+  <img src="https://i.giphy.com/media/RFz6TYvbiTr8DDAP72/giphy.gif" width="880" alt="Frieren playful">
+  <!-- Youtooz 宣发动效（Q版） -->
+  <img src="https://i.giphy.com/media/NRIJsKC64kxK4XFdyC/giphy.gif" width="880" alt="Frieren chibi">
 </p>
 
-<!-- 徽章矩阵（可按需改） -->
+---
+
+### 🎬 官方预告（点击可跳转）
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-%E8%8A%99%E8%8E%89%E8%BF%9E-%23b38cff" />
-  <img src="https://img.shields.io/badge/Stack-Java%20%7C%20ACGN%20UI%20%7C%20DevOps-%23a1c4fd" />
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=jyfdexh.jyfdexh">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=jyfdexh.jyfdexh" alt="visitors">
+  <!-- Crunchyroll 预告 -->
+  <a href="https://www.youtube.com/watch?v=Iwr1aLEDpe4" target="_blank">
+    <img src="https://img.youtube.com/vi/Iwr1aLEDpe4/maxresdefault.jpg" width="420" alt="Crunchyroll Trailer">
+  </a>
+  <!-- Netflix Anime 预告 -->
+  <a href="https://www.youtube.com/watch?v=01WEqntM1NI" target="_blank">
+    <img src="https://img.youtube.com/vi/01WEqntM1NI/maxresdefault.jpg" width="420" alt="Netflix Anime Trailer">
+  </a>
+</p>
+<p align="center">
+  <!-- 日文 2期 Teaser（TOHO） -->
+  <a href="https://www.youtube.com/watch?v=P-YPtYkViKM" target="_blank">
+    <img src="https://img.youtube.com/vi/P-YPtYkViKM/maxresdefault.jpg" width="420" alt="TOHO Teaser S2">
+  </a>
+  <!-- 2期海外版预告（Crunchyroll） -->
+  <a href="https://www.youtube.com/watch?v=n6HZo_33YaQ" target="_blank">
+    <img src="https://img.youtube.com/vi/n6HZo_33YaQ/maxresdefault.jpg" width="420" alt="Crunchyroll Trailer S2">
   </a>
 </p>
 
@@ -39,7 +56,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D06FFF,100:6E7AFF&section=footer&text=%20" />
 </p>
 
-<!-- 说明：
-- 若需要换图，保持 https://commons.wikimedia.org/wiki/Special:FilePath/<文件名> 形式最稳。
-- GitHub Profile README 不执行 JS，动效用 Gif/动态 SVG 即可。
+<!-- 备注：
+- 上述 GIF 为 GIPHY 直链（i.giphy.com），适合嵌入 README。
+- 若个别缩略图 404，可把 maxresdefault.jpg 改成 hqdefault.jpg。
 -->
